@@ -4,4 +4,4 @@ In this research, nine unsupervised online anomaly detection models for streamin
 
 If using our code, please cite our paper as: https://rdcu.be/exqbN 
 
-Ray, Santosh Kumar, and Seba Susan. "Real-time Air Pollution Monitoring in Delhi Using Online Anomaly Detection Algorithms for Streaming Data." National Academy Science Letters (2025): 1-3.
+**Ray, Santosh Kumar, and Seba Susan. "Real-time Air Pollution Monitoring in Delhi Using Online Anomaly Detection Algorithms for Streaming Data." National Academy Science Letters (2025): 1-3.**
